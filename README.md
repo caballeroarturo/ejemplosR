@@ -24,8 +24,6 @@ https://data.mendeley.com/
 Bancos de datos de Investigaciones científicas. Son reales  y muchos están relacionados a artículos de investigación. 
 
 
-***En general, para la vida, no inviertan mucho tiempo en datos dummy/ficticios***
-
 # ShinyBedu
 
 
