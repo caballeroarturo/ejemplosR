@@ -32,6 +32,17 @@
 - Servidores públicos, sueldo, puesto, dependencia y nombre entre otros. Son datos actuales.
   https://tudinero.cdmx.gob.mx/buscador_personas
 
+### Más datos
+
+- Registro de personas desaparecidas en México
+  https://versionpublicarnpdno.segob.gob.mx/Dashboard/Boletin
+  https://datos.gob.mx/busca/organization/sesnsp
+  
+- INEGI
+  https://www.inegi.org.mx/
+  ENVIPE: https://www.inegi.org.mx/programas/envipe/2022/
+  ENOE:   https://www.inegi.org.mx/programas/enoe/15ymas/
+  ENIGH:  https://www.inegi.org.mx/programas/enigh/nc/2022/
 
 # ShinyBedu
 
