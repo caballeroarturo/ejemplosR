@@ -7,7 +7,7 @@ Scientific data. Artículos de bases de datos. Para los que querían cosas de me
 https://www.mdpi.com/journal/data
 También son datos publicados y que vienen acompañados con artículos de investigación que explican para que se obtuvieron y que modelos de análisis les han hecho. Por ejemplo: machine learning, redes neuronales, clasificacion de texto, etc, análisis de "sentimientos". 
 
-### TA-1
+### TA-2
 
 Si les interesa lo de la guerra de Israel contra palestina:
 https://data.humdata.org/m/group/pse
