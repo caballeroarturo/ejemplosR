@@ -51,5 +51,8 @@
 
 
 Shiny
+
+Les preparé este formato de shiny con el fondo que les pidieron; es el archivo que se llama app[https://github.com/caballeroarturo/ejemplosR/blob/main/app.R]. 
+
 ![preview](https://github.com/caballeroarturo/ShinyBedu/assets/37312847/67930a5f-e70f-43e2-b423-4d23a183e12c)
 ![preview2](https://github.com/caballeroarturo/ShinyBedu/assets/37312847/03dc2abf-0865-4f00-914b-ecc64a15a587)
