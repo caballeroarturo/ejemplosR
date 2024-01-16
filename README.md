@@ -35,8 +35,8 @@
 ### Más datos
 
 - Registro de personas desaparecidas en México
-  https://versionpublicarnpdno.segob.gob.mx/Dashboard/Boletin
-  https://datos.gob.mx/busca/organization/sesnsp
+  - https://versionpublicarnpdno.segob.gob.mx/Dashboard/Boletin
+  - https://datos.gob.mx/busca/organization/sesnsp
   
 - INEGI
   - https://www.inegi.org.mx/
