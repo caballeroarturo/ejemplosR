@@ -1,6 +1,6 @@
 # Fuentes de datos para sus proyectos
 
-### TA-1
+### Revistas de investigación
 
 - Scientific data. Artículos de bases de datos. Para los que quieran cosas de medicina, biomédicas, genes, etc, les podría funcionar perfecto. 
   https://www.nature.com/sdata/
@@ -9,7 +9,10 @@
   Por ejemplo: machine learning, redes neuronales, clasificacion de texto, etc, análisis de "sentimientos".
   https://www.mdpi.com/journal/data
 
-### TA-2
+- Bancos de datos de Investigaciones científicas. En general están relacionados a artículos de investigación. 
+  https://data.mendeley.com/
+  
+### Derechos humanos
 
 - Derechos humanos 
   https://www.ohchr.org/es/resources/databases
@@ -17,10 +20,11 @@
 - Guerra de Israel contra palestina:
   https://data.humdata.org/m/group/pse
 
-- Bancos de datos de Investigaciones científicas. En general están relacionados a artículos de investigación. 
-  https://data.mendeley.com/
+- Registro de personas desaparecidas en México
+  - https://versionpublicarnpdno.segob.gob.mx/Dashboard/Boletin
+  - https://datos.gob.mx/busca/organization/sesnsp
 
-### TA-3
+### Datos abiertos de México
 
 - Datos abiertos de México:
   Viene info de covid, salud, seguridad, desastres naturales, sismos, inversión, precios de gasolina, petróleo, educación, etc. 
@@ -32,14 +36,9 @@
 - Servidores públicos, sueldo, puesto, dependencia y nombre entre otros. Son datos actuales.
   https://tudinero.cdmx.gob.mx/buscador_personas
 
-### Más datos
+### INEGI
 
-- Registro de personas desaparecidas en México
-  - https://versionpublicarnpdno.segob.gob.mx/Dashboard/Boletin
-  - https://datos.gob.mx/busca/organization/sesnsp
-  
-- INEGI
-  - https://www.inegi.org.mx/
+- https://www.inegi.org.mx/
   - ENVIPE: https://www.inegi.org.mx/programas/envipe/2022/
   - ENOE:   https://www.inegi.org.mx/programas/enoe/15ymas/
   - ENIGH:  https://www.inegi.org.mx/programas/enigh/nc/2022/
