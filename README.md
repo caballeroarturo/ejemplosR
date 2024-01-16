@@ -39,10 +39,10 @@
   https://datos.gob.mx/busca/organization/sesnsp
   
 - INEGI
-  https://www.inegi.org.mx/
-  ENVIPE: https://www.inegi.org.mx/programas/envipe/2022/
-  ENOE:   https://www.inegi.org.mx/programas/enoe/15ymas/
-  ENIGH:  https://www.inegi.org.mx/programas/enigh/nc/2022/
+  - https://www.inegi.org.mx/
+  - ENVIPE: https://www.inegi.org.mx/programas/envipe/2022/
+  - ENOE:   https://www.inegi.org.mx/programas/enoe/15ymas/
+  - ENIGH:  https://www.inegi.org.mx/programas/enigh/nc/2022/
 
 # ShinyBedu
 
