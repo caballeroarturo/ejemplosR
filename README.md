@@ -44,7 +44,13 @@
   - ENIGH:  https://www.inegi.org.mx/programas/enigh/nc/2022/
  
 ### Indicadores internacionales
+En ambos vienen series históricas por país o para algunos lugares también por ciudad. 
 
+- Banco Mundial: https://datos.bancomundial.org/
+- UNESCO
+  - Cifras y estadísticas:          https://www.unesco.org/es/data-center
+  - UIS (Instituto de Estadística): https://uis.unesco.org/en/home
+  
 # ShinyBedu
 
 ## Plantilla con el fondo de Bedu
