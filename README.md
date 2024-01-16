@@ -2,7 +2,7 @@
 
 ### TA-1
 
-- Scientific data. Artículos de bases de datos. Para los que querían cosas de medicina, biomédicas o genes, les podría funcionar perfecto. 
+- Scientific data. Artículos de bases de datos. Para los que quieran cosas de medicina, biomédicas, genes, etc, les podría funcionar perfecto. 
   https://www.nature.com/sdata/
   
 - También son datos publicados y que vienen acompañados con artículos de investigación que explican para que se obtuvieron y que modelos de análisis les han hecho.
@@ -17,7 +17,7 @@
 - Guerra de Israel contra palestina:
   https://data.humdata.org/m/group/pse
 
-- Bancos de datos de Investigaciones científicas. Son reales  y muchos están relacionados a artículos de investigación. 
+- Bancos de datos de Investigaciones científicas. En general están relacionados a artículos de investigación. 
   https://data.mendeley.com/
 
 ### TA-3
