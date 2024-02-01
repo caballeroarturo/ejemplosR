@@ -1,0 +1,40 @@
+---
+title: "RPython"
+format: html
+editor: visual
+---
+
+Ejemplo 1
+
+```{r}
+library(reticulate)
+os <- import("os")
+os$listdir(".")
+
+library(dplyr)
+df <- tibble(n =1:30, col2 = exp(1:30))
+head(df)
+```
+
+You can add options to executable code like this
+
+```{python}
+print("python")
+```
+
+```{python}
+import pandas as pd
+ 
+# initialize list of lists
+data = [['tom', 10], ['nick', 15], ['juli', 14]]
+ 
+# Create the pandas DataFrame
+df1 = pd.DataFrame(data, columns=['Name', 'Age'])
+ 
+# print dataframe.
+print(df)
+```
+
+```{r}
+head(py$df1)
+```
