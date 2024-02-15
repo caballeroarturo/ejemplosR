@@ -34,9 +34,11 @@
   https://tudinero.cdmx.gob.mx/buscador_personas
 
 #### Estados
-    CDMX         https://datos.cdmx.gob.mx/  
-    Tamaulipas   [https://www.tamaulipas.gob.mx/datosabiertos/](https://www.tamaulipas.gob.mx/datosabiertos/)
-    Nuevo León   https://nuevoleon.opendatasoft.com/pages/datosabiertosnl/
+
+    - CDMX:         https://datos.cdmx.gob.mx/  
+    - Tamaulipas:   https://www.tamaulipas.gob.mx/datosabiertos/
+    - Nuevo León:   https://nuevoleon.opendatasoft.com/pages/datosabiertosnl/
+    - Edo Mex:      https://datos.edomex.gob.mx/
 
 ### INEGI
 
