@@ -30,14 +30,13 @@
   Viene info de covid, salud, seguridad, desastres naturales, sismos, inversión, precios de gasolina, petróleo, educación, etc. 
   [https://datos.gob.mx/](https://datos.gob.mx/)
 
-- Algo más local, datos abiertos de la cdmx, hay series históricas y muchos datos están georeferenciados. 
-  https://datos.cdmx.gob.mx/
-
 - Servidores públicos, sueldo, puesto, dependencia y nombre entre otros. Son datos actuales.
   https://tudinero.cdmx.gob.mx/buscador_personas
 
 #### Estados
-    Tamaulipas: [https://www.tamaulipas.gob.mx/datosabiertos/](https://www.tamaulipas.gob.mx/datosabiertos/)
+    CDMX         https://datos.cdmx.gob.mx/  
+    Tamaulipas   [https://www.tamaulipas.gob.mx/datosabiertos/](https://www.tamaulipas.gob.mx/datosabiertos/)
+    Nuevo León   https://nuevoleon.opendatasoft.com/pages/datosabiertosnl/
 
 ### INEGI
 
