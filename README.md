@@ -33,32 +33,34 @@
 - Servidores públicos, sueldo, puesto, dependencia y nombre entre otros. Son datos actuales.
   https://tudinero.cdmx.gob.mx/buscador_personas
 
-### Estados
+#### Estados
 
-    - CDMX:         https://datos.cdmx.gob.mx/  
-    - Tamaulipas:   https://www.tamaulipas.gob.mx/datosabiertos/
-    - Nuevo León:   https://nuevoleon.opendatasoft.com/pages/datosabiertosnl/
-    - Edo Mex:      https://datos.edomex.gob.mx/
+  - CDMX:         https://datos.cdmx.gob.mx/  
+  - Tamaulipas:   https://www.tamaulipas.gob.mx/datosabiertos/
+  - Nuevo León:   https://nuevoleon.opendatasoft.com/pages/datosabiertosnl/
+  - Edo Mex:      https://datos.edomex.gob.mx/
 
-### INEGI
+#### INEGI
 
 - https://www.inegi.org.mx/
   - ENVIPE: https://www.inegi.org.mx/programas/envipe/2022/
   - ENOE:   https://www.inegi.org.mx/programas/enoe/15ymas/
   - ENIGH:  https://www.inegi.org.mx/programas/enigh/nc/2022/
+
 Algunas encuestas incluyen códigos en R de como se calculan los indicadores, por ejemplo la ENIGH con los deciles económicos. 
+
+#### CONAPO
+  Pública los datos de marginación y también el código en R de como se obtuvieron
+  https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372
  
 ### Indicadores internacionales
+
 En ambos vienen series históricas por país o para algunos lugares también por ciudad. 
 
 - Banco Mundial: https://datos.bancomundial.org/
 - UNESCO
   - Cifras y estadísticas:          https://www.unesco.org/es/data-center
   - UIS (Instituto de Estadística): https://uis.unesco.org/en/home
-
-### CONAPO
-  Pública los datos de marginación y también el código en R de como se obtuvieron
-  https://www.gob.mx/conapo/documentos/indices-de-marginacion-2020-284372
   
 # ShinyBedu
 
